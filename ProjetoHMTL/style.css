@@ -1,0 +1,62 @@
+body { 
+    background-image: url(./imagem/mesa-de-cafe-de-luxo-dentro-do-bar-barista-gerada-por-ia.jpg) ;
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+    
+}
+
+h1 {
+    color: white;
+}
+
+p{
+    color: white;
+}
+
+ul {
+    color: white;
+}
+
+div {
+    color: white;
+}
+
+.titulo-principal {
+    padding: 20px;
+}
+
+.titulo-centralizado {
+    text-align: center;
+}
+
+p {
+    text-align: center;
+}
+
+#missao {
+    font-size: 20px;
+}
+
+em strong {
+    color: #ff0000;
+}
+
+.itens {
+    font-style: italic;
+}
+
+.beneficios {
+    padding: 20px;
+}
+
+ul {
+    display: inline-block;
+    vertical-align: top;
+    width: 20%;
+    margin-right: 15%;
+}
+
+.imagembeneficios {
+    width: 50%;
+}
